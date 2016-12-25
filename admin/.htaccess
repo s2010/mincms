@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile /Users/alexgarrett/Dropbox/htdocs/basic-php-cms/admin/.htpasswd
+require valid-user
